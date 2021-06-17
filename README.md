@@ -3,9 +3,9 @@
 This program classifies text in a variety of ways using data from Spotify's API on the artist Alcest. 
 
 The project was supposed to meet the following criteria:
-A. Display the same analysis using 3 different charts (ex. A bar chart, a line chart and a pie chart)
-B. Use appropriate, complete, professional labeling
-C. Rank your charts from most effective to least effective.
+- Display the same analysis using 3 different charts (ex. A bar chart, a line chart and a pie chart)
+- Use appropriate, complete, professional labeling
+- Rank your charts from most effective to least effective.
 
 Summary of findings: 
 The data utilized for the bar, line, and pie charts is from the artist Alcest and is an average of song metrics by album. The data used for the scatter plot is at the song level and is not averaged. Metrics are defined and derived by Spotify.
